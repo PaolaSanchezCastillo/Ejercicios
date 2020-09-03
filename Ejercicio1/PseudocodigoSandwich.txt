@@ -1,0 +1,25 @@
+Algoritmo sándwich.
+
+Entradas:
+
+Bolsa de Pan de caja.
+Jamón
+Queso
+Plato
+
+
+Proceso:
+1. Colocar plato.
+2. Abrir la bolsa del pan. 
+3. Sacar 2 rebanas de pan .
+4. Cerrar bolsa de pan.
+5. Colocar una rebana de pan sobre el plato.
+6. Colocar una rebana de jamón sobre la rebanada de pan. 
+7. Colocar una rebanada de queso sobre la rebana de jamón.
+8. Colocar una rebana de pan sobre la rebanada de queso
+
+Fin.
+
+
+Salida:
+* Sandwich hecho.
