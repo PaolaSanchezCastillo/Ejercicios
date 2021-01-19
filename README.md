@@ -1,2 +1,2 @@
 # Ejercicios
-Repositorio de Ejericios SM 
+Repositorio de Phyton Colaboratory
