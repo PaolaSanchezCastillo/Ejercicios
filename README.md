@@ -1,2 +1,3 @@
 # Ejercicios
-Repositorio de Phyton Colaboratory
+Repositorio de Python Colaboratory
+Practicas de mineria de datos con python 
